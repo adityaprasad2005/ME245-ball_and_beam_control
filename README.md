@@ -4,11 +4,6 @@
 
 This project focuses on designing a control system for a ball and beam system. The system consists of a ball placed on a beam, and a servo motor that can adjust the angle of the beam. The control system's objective is to manipulate the ball's position along the beam by adjusting the beam angle.
 
-**System Assumptions:**
-
-* The ball remains in contact with the beam at all times.
-* The ball performs pure rolling motion (rolling without slipping).
-
 **Files:**
 
 * **Task2.m:** This MATLAB script analyzes the system dynamics. It includes the following:
@@ -54,9 +49,3 @@ The project report contains a detailed description of all tasks, including:
 * **Task 8: Demonstration of the Physical Project Setup**
     - Tuning the PID controller to stabilize the ball at a desired position
     - Demonstrating the controller's ability to respond to minor perturbations
-
-**Additional Information:**
-
-* The project report provides a comprehensive analysis of the system's behavior and the effectiveness of the designed controllers.
-* The MATLAB scripts and Arduino code are well-commented and easy to understand.
-* The physical system demonstrates the successful implementation of the control system.
